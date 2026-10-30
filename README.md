@@ -34,4 +34,4 @@ Unidentified uniques and sets get a tag if they might be new for you:
 Tip: turn on **Force show undiscovered** in the PD2 settings so new set items show on stricter filter levels too.
 
 ## 🐞 Found a bug?
-Open an issue here with a screenshot of the item.
+DM me on Discord. jimzyz98
