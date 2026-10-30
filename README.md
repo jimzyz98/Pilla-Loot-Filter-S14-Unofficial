@@ -23,6 +23,7 @@ All credit for the original filter goes to **Pilla** – this is just a head sta
 - More stars on rare helms, shields, chests, belts and caster weapons
 - Eth Matriarchal Javelins with +3 javelin skills drop like a high rune
 - Updated infusion tooltips (Hitpower / Bountiful) and other S14 patch changes
+- New jewel prefix: 5% skill damage + 3 life/mana after each kill gets the **Super Special Jewel** banner (e.g. `*** 5%Fire Maek Rare Jewel ***`)
 
 ## 🏆 Grail tags
 Unidentified uniques and sets get a tag if they might be new for you:
