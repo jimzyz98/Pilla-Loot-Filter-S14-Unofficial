@@ -1,19 +1,19 @@
 # PD2 Hype Loot Filter – Season 14 (Unofficial)
 
 Unofficial Season 14 update of **Pilla's Hype loot filter** for Project Diablo 2.
-All credit for the original filter goes to **Pilla** – this is just a head start until his official S14 version is out.
+All credit for the original filter goes to **Pilla**.
 
 ## 📥 How to install
 
-1. Click **`S14_Hype_Unofficial.filter`** above, then click the **Download raw file** button (⬇ icon on the right).
+1. Click the newest **`S14_Hype_Unofficial_vX.X.filter`** file above, then click the **Download raw file** button (⬇ icon on the right).
 2. Put the file in your PD2 filter folder:
    `Diablo II\ProjectD2\filters\local\`
    (usually `C:\Program Files (x86)\Diablo II\ProjectD2\filters\local\`)
-3. Open the **PD2 launcher** and select **S14_Hype_Unofficial** under local loot filters.
+3. Open the **PD2 launcher** and select the filter under local loot filters.
 4. ⚠️ **Press "Save filter"** – if you don't, the filter will NOT load!
 5. Start a **new game**.
 
-**Updating:** download the new file, replace the old one, press **Save filter** again and start a new game.
+**Updating:** delete the old file, add the new one, select it in the launcher, press **Save filter** and start a new game.
 
 ## ✨ What's new for S14
 - New maps: Poisoned Well, Dark Temple, Descent from Mount Arreat (immune free zone tag), Kyovoshad immunities updated
@@ -22,8 +22,8 @@ All credit for the original filter goes to **Pilla** – this is just a head sta
 - Tags for the new rare-only affixes when identified: `[+2 Soc]`, `30Fcr`, `Cbf`, `40Frw`, `Ds/Cb`
 - More stars on rare helms, shields, chests, belts and caster weapons
 - Eth Matriarchal Javelins with +3 javelin skills drop like a high rune
-- Updated infusion tooltips (Hitpower / Bountiful) and other S14 patch changes
 - New jewel prefix (5% skill damage) + 3 life/mana after each kill, or + 10-15 all res (rare), gets the **Super Special Jewel** banner
+- Updated infusion tooltips (Hitpower / Bountiful) and other S14 patch changes
 
 ## 🏆 Grail tags
 Unidentified uniques and sets get a tag if they might be new for you:
@@ -34,4 +34,12 @@ Unidentified uniques and sets get a tag if they might be new for you:
 Tip: turn on **Force show undiscovered** in the PD2 settings so new set items show on stricter filter levels too.
 
 ## 🐞 Found a bug?
-DM me on Discord. jimzyz98
+Open an **Issue** here (Issues tab → New issue) with a screenshot of the item.
+
+## 📜 Changelog
+**v1.1**
+- Super Special Jewel for the new 5% skill damage jewels (+ 3 life/mana after kill, or + 10-15 all res on rares)
+- Version number in the file name
+
+**v1.0**
+- First S14 release
