@@ -37,6 +37,9 @@ Tip: turn on **Force show undiscovered** in the PD2 settings so new set items sh
 Open an **Issue** here (Issues tab → New issue) with a screenshot of the item.
 
 ## 📜 Changelog
+**v1.2** 
+- S14 stacks: runes and flawless/perfect gems show how many are in the stack again (* 3)
+
 **v1.1**
 - Super Special Jewel for the new 5% skill damage jewels (+ 3 life/mana after kill, or + 10-15 all res on rares)
 - Version number in the file name
