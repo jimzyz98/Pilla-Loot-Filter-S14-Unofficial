@@ -3,6 +3,8 @@
 Unofficial Season 14 update of **Pilla's Hype loot filter** for Project Diablo 2.
 All credit for the original filter goes to **Pilla**.
 
+> ⚠️ **v1.3 – important update:** stacked runes and gems now show the count on the ground (`GUL [25] * 3`), and many map immunity tags are fixed. Update if you're on v1.1 or older.
+
 ## 📥 How to install
 
 1. Click the newest **`S14_Hype_Unofficial_vX.X.filter`** file above, then click the **Download raw file** button (⬇ icon on the right).
@@ -23,6 +25,8 @@ All credit for the original filter goes to **Pilla**.
 - More stars on rare helms, shields, chests, belts and caster weapons
 - Eth Matriarchal Javelins with +3 javelin skills drop like a high rune
 - New jewel prefix (5% skill damage) + 3 life/mana after each kill, or + 10-15 all res (rare), gets the **Super Special Jewel** banner
+- Stacked runes and flawless/perfect gems show how many are in the stack
+- Map immunity tags checked and fixed, including all unique maps
 - Updated infusion tooltips (Hitpower / Bountiful) and other S14 patch changes
 
 ## 🏆 Grail tags
@@ -37,7 +41,14 @@ Tip: turn on **Force show undiscovered** in the PD2 settings so new set items sh
 Open an **Issue** here (Issues tab → New issue) with a screenshot of the item.
 
 ## 📜 Changelog
-**v1.2** 
+**v1.3**
+- Map immunity tags fixed: River of Blood (not phys immune, magic immune added), Shadows of Westmarch (not light immune), Horazon's Memory, Sanatorium, Phlegethon, Ashen Plains, Kyovoshad
+- Unique maps: all immunity tags fixed from the PD2 wiki (Zhar's Sanctum is no longer shown as fire/cold immune, Djinn's Domain now shows its immunes)
+- "The Stygian Caverns" renamed to **Warlord of Blood**
+- Fallen Gardens and Djinn's Domain now show **Tier 2**
+- Unique map labels shortened to `(U)` so the tier is no longer cut off
+
+**v1.2**
 - S14 stacks: runes and flawless/perfect gems show how many are in the stack again (* 3)
 
 **v1.1**
